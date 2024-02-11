@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://mx.fanfoot.ca/superjp.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/gilajp.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/gojekpot.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/winstrike69.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/jagoan86.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/slotzeus.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/kaptenjackpot.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/boosterjp.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/kerajaanslot.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/pakong86.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/viral88.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/clan4d.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/dinamit4d.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/elang212.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/gori77.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/viral4d.html/sitemap.xml
+Sitemap: https://mx.fanfoot.ca/playground88.html/sitemap.xml
